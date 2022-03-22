@@ -175,4 +175,4 @@ async def on_message(message):
 
 
 auto_send.start()
-client.run('TOKEN')
+client.run(TOKEN)
